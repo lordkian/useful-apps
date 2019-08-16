@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmptyFileGenarator", "EmptyFileGenarator", "{884FFBB5-D8B2-4D4F-8CC3-D60BF03A2D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty File Genarator", "Empty File Genarator\Empty File Genarator.csproj", "{AF1DE6D6-8018-4E18-A19F-DBAB3004F81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty File Genarator WinForm", "Empty File Genarator WinForm\Empty File Genarator WinForm.csproj", "{01F5E3CB-857B-40BC-99AC-C9DDE58B143C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1DE6D6-8018-4E18-A19F-DBAB3004F81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1DE6D6-8018-4E18-A19F-DBAB3004F81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1DE6D6-8018-4E18-A19F-DBAB3004F81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1DE6D6-8018-4E18-A19F-DBAB3004F81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F5E3CB-857B-40BC-99AC-C9DDE58B143C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F5E3CB-857B-40BC-99AC-C9DDE58B143C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F5E3CB-857B-40BC-99AC-C9DDE58B143C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F5E3CB-857B-40BC-99AC-C9DDE58B143C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AF1DE6D6-8018-4E18-A19F-DBAB3004F81B} = {884FFBB5-D8B2-4D4F-8CC3-D60BF03A2D70}
+		{01F5E3CB-857B-40BC-99AC-C9DDE58B143C} = {884FFBB5-D8B2-4D4F-8CC3-D60BF03A2D70}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A7AAF6-532E-4E22-A6D9-6329A4F04CF1}
+	EndGlobalSection
+EndGlobal
