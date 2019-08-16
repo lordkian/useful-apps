@@ -80,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Empty File Genarator\Empty File Genarator.csproj">
+    <ProjectReference Include="..\Empty File Genarator\Empty_File_Genarator.csproj">
       <Project>{af1de6d6-8018-4e18-a19f-dbab3004f81b}</Project>
-      <Name>Empty File Genarator</Name>
+      <Name>Empty_File_Genarator</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

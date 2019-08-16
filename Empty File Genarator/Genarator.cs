@@ -2,7 +2,7 @@
 using System.IO;
 using System.Threading;
 
-namespace EmptyFileGenarator
+namespace Empty_File_Genarator
 {
     public enum FileSizeUnit { B, KB, MB, GB, TB }
     public class Genarator
